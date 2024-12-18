@@ -36,12 +36,5 @@
       <guid>http://localhost:1313/categories/technologie/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Space</title>
-      <link>http://localhost:1313/categories/space/</link>
-      <pubDate>Tue, 15 Aug 2023 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/categories/space/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

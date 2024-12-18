@@ -85,33 +85,5 @@
       <guid>http://localhost:1313/tags/intelligence-artificielle/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Exploration</title>
-      <link>http://localhost:1313/tags/exploration/</link>
-      <pubDate>Tue, 15 Aug 2023 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/tags/exploration/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Feature</title>
-      <link>http://localhost:1313/tags/feature/</link>
-      <pubDate>Tue, 15 Aug 2023 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/tags/feature/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mars</title>
-      <link>http://localhost:1313/tags/mars/</link>
-      <pubDate>Tue, 15 Aug 2023 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/tags/mars/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Space</title>
-      <link>http://localhost:1313/tags/space/</link>
-      <pubDate>Tue, 15 Aug 2023 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/tags/space/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

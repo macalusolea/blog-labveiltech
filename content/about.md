@@ -57,7 +57,7 @@ Ce site a été réalisé avec **Hugo**, un framework open-source pour la géné
 ### Voici quelques détails techniques :
 - **Plateforme :** Hugo
 - **Thème personnalisé :** Design adapté à mes besoins
-- **Code source :** Tout est disponible sur mon [GitHub](https://github.com/macalusolea/labveiltech).
+- **Code source :** Tout est disponible sur mon [GitHub](https://github.com/macalusolea/blog-labveiltech).
 
 Ce processus m’a permis d’appliquer mes compétences en **design web**, en **organisation de contenu**, et en **personnalisation technique**.
 
