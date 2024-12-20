@@ -1,22 +1,23 @@
 ---
 title: "Bienvenue sur mon blog"
-date: 2023-10-06T20:37:29+07:00
+date: 2024-12-03
+image: images/moi.png
 draft: false
 ---
 
-# Bienvenue sur mon blog !
-
 Je m'appelle **Léa** et je suis actuellement en troisième année de **Bachelor en Ingénierie des Médias** à la **HEIG-VD**. Passionnée par le monde du **luxe**, j'ai créé cet espace pour partager et explorer les multiples facettes du **marketing de luxe**. Ici, vous trouverez un mélange d'articles, d'analyses, et de sources qui nourrissent mon lien avec ce domaine prestigieux.
+
+---
 
 ## Pourquoi le Marketing de Luxe ?
 
-Le marketing de luxe est bien plus qu'un simple moyen de promotion pour des produits haut de gamme. C'est un **univers unique** où tradition et innovation se conjuguent pour créer des **expériences exclusives** et répondre aux attentes d'une clientèle exigeante. Mon objectif est de montrer comment les marques de luxe construisent des identités fortes, évoluent constamment pour rester à la pointe, et surtout, comment elles réussissent à mêler **créativité, excellence, et innovation** dans un marché en perpétuelle mutation.
+Le marketing de luxe est bien plus qu'un simple moyen de promotion pour des produits haut de gamme. C'est un univers unique où **tradition** et **innovation** se conjuguent pour créer des expériences exclusives et répondre aux attentes d'une clientèle exigeante. Mon objectif est de montrer comment les marques de luxe construisent des identités fortes, évoluent constamment pour rester à la pointe, et surtout, comment elles réussissent à mêler **créativité, excellence, et innovation** dans un marché en perpétuelle mutation.
 
 ---
 
 ## Mon Ikigai : Trouver ma raison d’être
 
-L’**Ikigai** est un concept japonais qui aide à trouver son équilibre en croisant quatre dimensions : **ce que vous aimez**, **ce dans quoi vous êtes bon**, **ce pour quoi vous pouvez être payé**, et **ce dont le monde a besoin**.
+L’**Ikigai** est un concept japonais qui aide à trouver son équilibre en croisant quatre dimensions : **ce que vous aimez**, **ce dans quoi vous êtes bon**, **ce pour quoi vous pouvez être payé** et **ce dont le monde a besoin**.
 
 ### Voici comment mon Ikigai se définit :
 - **Ce que j’aime :** Le design, la mode, les voyages, le marketing de luxe, et la gastronomie.
@@ -46,7 +47,29 @@ Le **marketing de luxe** englobe un large éventail de stratégies et techniques
   - **Influence :** Collaboration avec des ambassadeurs et influenceurs, stratégies adaptées aux réseaux sociaux.
   - **Innovation :** Intégration de l’IA et de la réalité augmentée pour sublimer l’expérience client.
 
-Ce domaine m’attire pour son **alliance entre créativité, excellence et innovation**, et je me vois évoluer dans un rôle de **chef de projet** ou **responsable marketing**, où je pourrais imaginer et réaliser des expériences uniques.
+Ce domaine m’attire pour son alliance entre **créativité**, **excellence**, et **innovation**. Je me vois évoluer dans un rôle de **cheffe de projet** ou **responsable marketing**, où je pourrais imaginer et réaliser des expériences uniques.
+
+---
+
+## Taxonomies du Blog
+
+Pour faciliter la navigation et l’organisation du contenu, j’ai structuré mon blog à l’aide de **taxonomies**. Elles permettent de regrouper les articles en fonction de leurs thèmes et de leurs spécificités.
+
+### **Catégories**
+Les catégories principales du blog sont :
+- **Marketing de Luxe** : Stratégies, études de cas, et réflexions autour des grandes Maisons de luxe.
+- **Technologie** : Innovations comme l’IA, la réalité augmentée et leur impact sur le luxe.
+- **Stratégie de Marque** : Branding, storytelling et création d’une image de marque forte.
+
+### **Tags**
+Les tags permettent d’affiner la recherche et de découvrir des contenus spécifiques :
+- **IA** : Intelligence artificielle et ses applications dans le luxe.
+- **Storytelling** : L’art de raconter des histoires pour sublimer les marques.
+- **Expérience Client** : Techniques pour offrir une expérience client unique et personnalisée.
+- **Innovation** : Nouvelles technologies et tendances émergentes.
+- **Design** : Création et esthétique dans le marketing de luxe.
+
+Ces taxonomies vous aideront à naviguer plus facilement et à trouver les contenus qui vous intéressent le plus.
 
 ---
 
@@ -59,8 +82,8 @@ Ce site a été réalisé avec **Hugo**, un framework open-source pour la géné
 - **Thème personnalisé :** Design adapté à mes besoins
 - **Code source :** Tout est disponible sur mon [GitHub](https://github.com/macalusolea/blog-labveiltech).
 
-Ce processus m’a permis d’appliquer mes compétences en **design web**, en **organisation de contenu**, et en **personnalisation technique**.
+Ce processus m’a permis d’appliquer mes compétences en design web en organisation de contenu et en personnalisation technique
 
 ---
 
-Merci de visiter mon blog ! J’espère que vous trouverez de l’inspiration à travers mes articles et réflexions sur le marketing de luxe. Bonne exploration !
+Merci de visiter mon blog ! J’espère que vous trouverez de l’inspiration à travers mes articles et réflexions sur le **marketing de luxe**. Bonne exploration !
